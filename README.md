@@ -83,5 +83,5 @@ ArgumentError: Polymorphic associations do not support computing the class.
 
 ### System configuration
 
-**Rails version**: 7.0.2.3
-**Ruby version**: 3.1.0
+**Rails version**: 6.1.5. 7.0.2.3
+**Ruby version**: 2.7, 3.0, 3.1
